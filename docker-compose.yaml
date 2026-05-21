@@ -75,9 +75,7 @@ services:
       - ./packages/LibraryCreatio/CommonHelper:/app/Terrasoft.Configuration/Pkg/CommonHelper
       - ./packages/LibraryCreatio/Doc2Pdf:/app/Terrasoft.Configuration/Pkg/Doc2Pdf
       - ./packages/LibraryCreatio/GlbOpenPopupWindowUserTask:/app/Terrasoft.Configuration/Pkg/GlbOpenPopupWindowUserTask
-      - ./packages/LibraryCreatio/Seqra:/app/Terrasoft.Configuration/Pkg/Seqra
       - ./packages/LibraryCreatio/UIHelper:/app/Terrasoft.Configuration/Pkg/UIHelper
-      - ./packages/LibraryCreatio/WebRequest:/app/Terrasoft.Configuration/Pkg/WebRequest
       # Custom packages — tambah baris baru per package via: ./scripts/add-package.sh <PackageName>
     networks:
       - creatio-net
