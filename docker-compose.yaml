@@ -72,14 +72,12 @@ services:
     volumes:
       - ./creatio-app:/app
       - creatio-logs:/app/Logs
-      - ./packages/CoreBase:/app/Terrasoft.Configuration/Pkg/CoreBase
-      - ./packages/CoreBaseData:/app/Terrasoft.Configuration/Pkg/CoreBaseData
-      - ./packages/CoreClaim:/app/Terrasoft.Configuration/Pkg/CoreClaim
-      - ./packages/CoreIntegration:/app/Terrasoft.Configuration/Pkg/CoreIntegration
-      - ./packages/CoreMessageBroker:/app/Terrasoft.Configuration/Pkg/CoreMessageBroker
-      - ./packages/CorePenjaminan:/app/Terrasoft.Configuration/Pkg/CorePenjaminan
-      - ./packages/CorePenjaminanProducts:/app/Terrasoft.Configuration/Pkg/CorePenjaminanProducts
-      - ./packages/CoreSubrogasi:/app/Terrasoft.Configuration/Pkg/CoreSubrogasi
+      - ./packages/LibraryCreatio/CommonHelper:/app/Terrasoft.Configuration/Pkg/CommonHelper
+      - ./packages/LibraryCreatio/Doc2Pdf:/app/Terrasoft.Configuration/Pkg/Doc2Pdf
+      - ./packages/LibraryCreatio/GlbOpenPopupWindowUserTask:/app/Terrasoft.Configuration/Pkg/GlbOpenPopupWindowUserTask
+      - ./packages/LibraryCreatio/Seqra:/app/Terrasoft.Configuration/Pkg/Seqra
+      - ./packages/LibraryCreatio/UIHelper:/app/Terrasoft.Configuration/Pkg/UIHelper
+      - ./packages/LibraryCreatio/WebRequest:/app/Terrasoft.Configuration/Pkg/WebRequest
       # Custom packages — tambah baris baru per package via: ./scripts/add-package.sh <PackageName>
     networks:
       - creatio-net

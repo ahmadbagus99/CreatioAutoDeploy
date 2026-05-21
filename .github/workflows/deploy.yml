@@ -21,6 +21,7 @@ jobs:
             echo "==> Pulling latest changes..."
             cd /opt/creatio
             git pull origin main
+            git submodule update --init --remote
 
             echo "==> Logging in to Creatio..."
             curl -s -c /tmp/creatio_cookie.txt \

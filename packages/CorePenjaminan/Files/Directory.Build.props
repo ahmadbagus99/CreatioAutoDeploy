@@ -1,6 +1,0 @@
-<Project>
-	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
-		<Compile Include="$(PkgPath)/CorePenjaminan/Schemas/CoreVerifikasiAnalisa/CoreVerifikasiAnalisa.cs" Condition="Exists('$(PkgPath)/CorePenjaminan/Schemas/CoreVerifikasiAnalisa/CoreVerifikasiAnalisa.cs')" />
-		<Compile Include="$(PkgPath)/CorePenjaminan/Schemas/CoreVwPenjaminan/CoreVwPenjaminan.cs" Condition="Exists('$(PkgPath)/CorePenjaminan/Schemas/CoreVwPenjaminan/CoreVwPenjaminan.cs')" />
-	</ItemGroup>
-</Project>
