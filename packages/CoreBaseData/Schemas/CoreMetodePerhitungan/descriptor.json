@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "71ce9154-4f88-4348-9d67-403f1444db00",
+    "Name": "CoreMetodePerhitungan",
+    "ModifiedOnUtc": "\/Date(1779334354000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Metode Perhitungan",
+    "DependsOn": []
+  }
+}

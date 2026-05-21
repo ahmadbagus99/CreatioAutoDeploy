@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2f1950a-f5d9-473e-9651-3b6091fadedc",
+    "Name": "CoreBentukLembaga",
+    "ModifiedOnUtc": "\/Date(1772622332000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Bentuk Lembaga",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fca03b8b-0b07-4d2e-976d-ff10c3bf6889",
+    "Name": "CoreStatusPenjaminan",
+    "ModifiedOnUtc": "\/Date(1772608211000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Status Penjaminan",
+    "DependsOn": []
+  }
+}

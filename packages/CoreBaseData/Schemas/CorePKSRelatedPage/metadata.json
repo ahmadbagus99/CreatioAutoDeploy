@@ -1,0 +1,46 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "12b19db5-fdca-4875-85a2-36ee6028719b",
+      "A2": "CorePKSRelatedPage",
+      "A5": "507e6eb0-19cb-4377-9618-d37fbd73a977",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7a04b208-54c5-4f59-a173-243aeb01dc6c",
+      "B8": "8.3.2.4199",
+      "AD1": "1601e355-06a1-41e2-8210-f4dceb14865b",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "eb3ac278-3f04-ebca-baa0-c2da91b01cb0",
+      "PageSchemaUId": "3d32451e-7f76-4787-bc9c-5ab0abf072af",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "e450f878-b541-42fc-fa0a-7a57259287ae",
+      "PageSchemaUId": "3d32451e-7f76-4787-bc9c-5ab0abf072af",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

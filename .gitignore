@@ -1,0 +1,18 @@
+# Secrets - jangan pernah commit
+.env
+
+# Creatio platform binaries 
+creatio-app/
+
+# Database backups
+db-backup/*.backup
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/settings.local.json

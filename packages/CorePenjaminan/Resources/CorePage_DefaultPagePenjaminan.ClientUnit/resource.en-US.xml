@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Default Page Penjaminan" />
+			<Item Name="LocalizableStrings.Label_ynmqlk7_caption.Value" Value="On Development" />
+			<Item Name="LocalizableStrings.Timer_6xj702i_caption.Value" Value="Timer" />
+			<Item Name="LocalizableStrings.Timer_6xj702i_label.Value" Value="Timer" />
+			<Item Name="LocalizableStrings.Timer_6xj702i_negativeTextValue.Value" Value="asd" />
+			<Item Name="LocalizableStrings.Timer_6xj702i_positiveTextValue.Value" Value="Sad" />
+		</Items>
+	</Group>
+</Resources>

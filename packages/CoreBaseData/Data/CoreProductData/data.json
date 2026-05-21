@@ -1,0 +1,122 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0e3ece2b-2ead-4a42-b4ae-37eeba919fb6"
+        },
+        {
+          "SchemaColumnUId": "2e1f4643-a44a-415e-8c4c-79283dc3d1d9",
+          "Value": "1013706"
+        },
+        {
+          "SchemaColumnUId": "51a20224-e62d-4198-b3e5-354d46e68af8",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "6cd88fbf-2355-45f8-8c8a-8e6308a77b96",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ab19483e-bd98-4b76-9565-56f7e309758b",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "ac574603-a4db-410c-877d-e383c0a6c51a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ae5ef7d5-1044-477f-affb-83bce9e65bbd",
+          "Value": "5facb8b4-ed6a-41bb-b224-659c2bf1eb8a",
+          "DisplayValue": "Modified in Creatio"
+        },
+        {
+          "SchemaColumnUId": "b2030ccd-1270-4bed-ac8b-4ebf4cfda0d1",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "b4687e9c-060d-4f9b-8367-b8ed66af0ada",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "d788c50c-1d2c-b36c-e6b2-8075f8583e8c",
+          "Value": "861dea63-40f2-476d-94fb-60c4d707ef11",
+          "DisplayValue": "Konvensional"
+        },
+        {
+          "SchemaColumnUId": "e241007b-18ad-4411-a6fb-caf56fdaa941",
+          "Value": "915e8a55-98d6-df11-9b2a-001d60e938c6",
+          "DisplayValue": "US Dollar"
+        },
+        {
+          "SchemaColumnUId": "e485abc9-4cc0-48ba-a8e6-76a6dd2ea222",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "86b5f247-0d6f-4280-86c7-66ae2b5dd247"
+        },
+        {
+          "SchemaColumnUId": "2e1f4643-a44a-415e-8c4c-79283dc3d1d9",
+          "Value": "MLT"
+        },
+        {
+          "SchemaColumnUId": "51a20224-e62d-4198-b3e5-354d46e68af8",
+          "Value": "f0b2a7c0-52e6-df11-971b-001d60e938c6",
+          "DisplayValue": "PF"
+        },
+        {
+          "SchemaColumnUId": "6cd88fbf-2355-45f8-8c8a-8e6308a77b96",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ab19483e-bd98-4b76-9565-56f7e309758b",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "ac574603-a4db-410c-877d-e383c0a6c51a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "ae5ef7d5-1044-477f-affb-83bce9e65bbd",
+          "Value": "5facb8b4-ed6a-41bb-b224-659c2bf1eb8a",
+          "DisplayValue": "Modified in Creatio"
+        },
+        {
+          "SchemaColumnUId": "b2030ccd-1270-4bed-ac8b-4ebf4cfda0d1",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "b4687e9c-060d-4f9b-8367-b8ed66af0ada",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "d788c50c-1d2c-b36c-e6b2-8075f8583e8c",
+          "Value": "861dea63-40f2-476d-94fb-60c4d707ef11",
+          "DisplayValue": "Konvensional"
+        },
+        {
+          "SchemaColumnUId": "e241007b-18ad-4411-a6fb-caf56fdaa941",
+          "Value": "915e8a55-98d6-df11-9b2a-001d60e938c6",
+          "DisplayValue": "US Dollar"
+        },
+        {
+          "SchemaColumnUId": "e485abc9-4cc0-48ba-a8e6-76a6dd2ea222",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

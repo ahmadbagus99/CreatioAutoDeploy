@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3799c9f6-3505-4199-a8e5-8c19a9c99f05",
+    "Name": "CoreNasabahMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772610166000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Nasabah (Mobile page settings)",
+    "DependsOn": []
+  }
+}

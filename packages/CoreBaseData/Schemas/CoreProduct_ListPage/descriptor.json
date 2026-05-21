@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "82614d5f-e834-46b8-8ae4-9dc3fa5abfe7",
+    "Name": "CoreProduct_ListPage",
+    "ModifiedOnUtc": "\/Date(1772613563000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Product list page",
+    "DependsOn": []
+  }
+}

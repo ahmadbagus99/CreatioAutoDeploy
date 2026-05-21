@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4dde7fa7-8a36-46af-916a-1104a8807325",
+    "Name": "CoreBank_ListPage",
+    "ModifiedOnUtc": "\/Date(1773036969000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Bank list page",
+    "DependsOn": []
+  }
+}

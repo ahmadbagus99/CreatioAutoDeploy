@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "40800f10-98b4-4eda-aedb-356fb0139400",
+    "Name": "CorePKSTerjamin",
+    "ModifiedOnUtc": "\/Date(1772786710000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PKS Terjamin"
+  }
+}

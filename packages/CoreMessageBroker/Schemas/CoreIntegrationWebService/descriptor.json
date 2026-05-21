@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "af337767-be81-4cd6-9c3d-52cd163580aa",
+    "Name": "CoreIntegrationWebService",
+    "ModifiedOnUtc": "\/Date(1778671928000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Integration Web Service",
+    "DependsOn": []
+  }
+}

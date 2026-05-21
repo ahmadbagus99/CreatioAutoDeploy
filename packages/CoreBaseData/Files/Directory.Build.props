@@ -1,0 +1,39 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/Account/Account.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/Account/Account.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreBadanUsaha/CoreBadanUsaha.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreBadanUsaha/CoreBadanUsaha.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreBank/CoreBank.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreBank/CoreBank.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreBankCabang/CoreBankCabang.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreBankCabang/CoreBankCabang.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreBentukLembaga/CoreBentukLembaga.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreBentukLembaga/CoreBentukLembaga.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreCaraBayar/CoreCaraBayar.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreCaraBayar/CoreCaraBayar.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisAgunan/CoreJenisAgunan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisAgunan/CoreJenisAgunan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisBank/CoreJenisBank.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisBank/CoreJenisBank.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisBankCabang/CoreJenisBankCabang.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisBankCabang/CoreJenisBankCabang.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisBond/CoreJenisBond.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisBond/CoreJenisBond.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisIdentitas/CoreJenisIdentitas.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisIdentitas/CoreJenisIdentitas.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisNasabah/CoreJenisNasabah.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisNasabah/CoreJenisNasabah.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisNomorLegalitas/CoreJenisNomorLegalitas.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisNomorLegalitas/CoreJenisNomorLegalitas.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisPenjaminan/CoreJenisPenjaminan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisPenjaminan/CoreJenisPenjaminan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisPersyaratan/CoreJenisPersyaratan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisPersyaratan/CoreJenisPersyaratan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisPrinsipUsaha/CoreJenisPrinsipUsaha.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisPrinsipUsaha/CoreJenisPrinsipUsaha.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisProduk/CoreJenisProduk.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisProduk/CoreJenisProduk.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisRiskSharing/CoreJenisRiskSharing.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisRiskSharing/CoreJenisRiskSharing.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisSinergiBUMN/CoreJenisSinergiBUMN.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisSinergiBUMN/CoreJenisSinergiBUMN.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreJenisSuratPerjanjian/CoreJenisSuratPerjanjian.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreJenisSuratPerjanjian/CoreJenisSuratPerjanjian.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreKategoriNasabah/CoreKategoriNasabah.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreKategoriNasabah/CoreKategoriNasabah.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreMetodePerhitungan/CoreMetodePerhitungan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreMetodePerhitungan/CoreMetodePerhitungan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreNasabah/CoreNasabah.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreNasabah/CoreNasabah.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CorePKS/CorePKS.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CorePKS/CorePKS.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CorePKSPenggunaan/CorePKSPenggunaan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CorePKSPenggunaan/CorePKSPenggunaan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CorePKSTerjamin/CorePKSTerjamin.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CorePKSTerjamin/CorePKSTerjamin.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreRates/CoreRates.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreRates/CoreRates.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreSatuanTenor/CoreSatuanTenor.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreSatuanTenor/CoreSatuanTenor.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreSektor/CoreSektor.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreSektor/CoreSektor.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreSkemaPenalty/CoreSkemaPenalty.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreSkemaPenalty/CoreSkemaPenalty.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreStatusPenjaminan/CoreStatusPenjaminan.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreStatusPenjaminan/CoreStatusPenjaminan.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreStatusPKS/CoreStatusPKS.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreStatusPKS/CoreStatusPKS.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreTipeRiskSharing/CoreTipeRiskSharing.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreTipeRiskSharing/CoreTipeRiskSharing.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/CoreTypeNasabah/CoreTypeNasabah.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/CoreTypeNasabah/CoreTypeNasabah.cs')" />
+		<Compile Include="$(PkgPath)/CoreBaseData/Schemas/Product/Product.cs" Condition="Exists('$(PkgPath)/CoreBaseData/Schemas/Product/Product.cs')" />
+	</ItemGroup>
+</Project>

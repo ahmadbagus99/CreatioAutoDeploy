@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "a3d2d765-efa6-4fbf-b9de-10dc607f6eeb",
+      "A2": "CoreBankCabangRelatedPage",
+      "A5": "507e6eb0-19cb-4377-9618-d37fbd73a977",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7a04b208-54c5-4f59-a173-243aeb01dc6c",
+      "B8": "8.3.2.4199",
+      "AD1": "3b127fa0-c525-425c-be1b-e9afa5de6942",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "6894d1ff-7555-7e2c-1c35-185798412fdb",
+      "PageSchemaUId": "16f15f37-b71e-4eeb-b01f-8ff62668b14e",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

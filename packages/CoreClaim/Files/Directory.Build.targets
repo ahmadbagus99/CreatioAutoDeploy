@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CoreClaim/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CoreClaim/Data/**" />
+		<Compile Remove="$(PkgPath)/CoreClaim/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CoreClaim/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CoreClaim/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CoreClaim/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CoreClaim/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CoreClaim/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CoreClaim/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CoreClaim/Resources/**" />
+		<None Remove="$(PkgPath)/CoreClaim/Assemblies/**" />
+		<None Remove="$(PkgPath)/CoreClaim/Data/**" />
+		<None Remove="$(PkgPath)/CoreClaim/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CoreClaim/Schemas/**" />
+		<None Remove="$(PkgPath)/CoreClaim/Resources/**" />
+  </ItemGroup>
+</Project>

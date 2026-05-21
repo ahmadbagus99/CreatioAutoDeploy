@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b597443f-3b40-4db5-b9b8-1bd8f2e71b1c",
+    "Name": "CoreVwPenjaminanRelatedPage",
+    "ModifiedOnUtc": "\/Date(1777024363000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Vw Penjaminan (Page settings)",
+    "DependsOn": []
+  }
+}

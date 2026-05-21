@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2cdec1c7-170c-42e4-8d73-d937d6e62b50",
+    "Name": "CoreJenisPenjaminan",
+    "ModifiedOnUtc": "\/Date(1772608244000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Jenis Penjaminan",
+    "DependsOn": []
+  }
+}

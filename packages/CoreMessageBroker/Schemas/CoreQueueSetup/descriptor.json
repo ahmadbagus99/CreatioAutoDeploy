@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "aefa6527-0b5c-45af-9989-5f2ef74c80a8",
+    "Name": "CoreQueueSetup",
+    "ModifiedOnUtc": "\/Date(1778655069000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Queue Setup",
+    "DependsOn": []
+  }
+}

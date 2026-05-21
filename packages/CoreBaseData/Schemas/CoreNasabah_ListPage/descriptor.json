@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "513b1404-4630-4a47-88a3-ef447aec7ad4",
+    "Name": "CoreNasabah_ListPage",
+    "ModifiedOnUtc": "\/Date(1772612849000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Nasabah list page",
+    "DependsOn": []
+  }
+}

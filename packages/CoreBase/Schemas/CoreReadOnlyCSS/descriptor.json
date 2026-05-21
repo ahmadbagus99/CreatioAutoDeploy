@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "935d4431-9b3c-4900-bc9d-16d26a5e1985",
+    "Name": "CoreReadOnlyCSS",
+    "ModifiedOnUtc": "\/Date(1772604237000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Read Only CSS",
+    "DependsOn": []
+  }
+}

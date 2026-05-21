@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Verifikasi Analisa" />
+			<Item Name="Columns.CoreBiayaAdministrasi.Caption" Value="Biaya Administrasi" />
+			<Item Name="Columns.CoreBiayaMaterai.Caption" Value="Biaya Materai" />
+			<Item Name="Columns.CoreCoverage.Caption" Value="Coverage" />
+			<Item Name="Columns.CoreJangkaWaktu.Caption" Value="Jangka Waktu" />
+			<Item Name="Columns.CoreJenisAgunan.Caption" Value="Jenis Agunan" />
+			<Item Name="Columns.CoreJenisBond.Caption" Value="Jenis Bond" />
+			<Item Name="Columns.CoreJenisNomorLegalitas.Caption" Value="Jenis Nomor Legalitas" />
+			<Item Name="Columns.CoreJenisPenjaminan.Caption" Value="Jenis Penjaminan" />
+			<Item Name="Columns.CoreJenisSinergiBUMN.Caption" Value="Jenis Sinergi BUMN" />
+			<Item Name="Columns.CoreLoanNumber.Caption" Value="Loan Number" />
+			<Item Name="Columns.CoreMetodePerhitungan.Caption" Value="Metode Perhitungan" />
+			<Item Name="Columns.CoreMitra.Caption" Value="Mitra" />
+			<Item Name="Columns.CoreNamaProyek.Caption" Value="Nama Proyek" />
+			<Item Name="Columns.CoreName.Caption" Value="Name" />
+			<Item Name="Columns.CoreNasabah.Caption" Value="Nasabah" />
+			<Item Name="Columns.CoreNilaiAgunan.Caption" Value="Nilai Agunan" />
+			<Item Name="Columns.CoreNilaiPenjamin.Caption" Value="Nilai Penjamin" />
+			<Item Name="Columns.CoreNilaiPenjaminan.Caption" Value="Nilai Penjaminan" />
+			<Item Name="Columns.CoreNilaiPermohonan.Caption" Value="Nilai Permohonan" />
+			<Item Name="Columns.CoreNominalPermohonan.Caption" Value="Nominal Permohonan" />
+			<Item Name="Columns.CoreNomorPermohonan.Caption" Value="Nomor Permohonan" />
+			<Item Name="Columns.CoreObligee.Caption" Value="Obligee" />
+			<Item Name="Columns.CorePrincipal.Caption" Value="Principal" />
+			<Item Name="Columns.CoreProduk.Caption" Value="Produk" />
+			<Item Name="Columns.CoreProvinsiProyek.Caption" Value="Provinsi Proyek" />
+			<Item Name="Columns.CoreTanggalSuratPermohonan.Caption" Value="Tanggal Surat Permohonan" />
+		</Items>
+	</Group>
+</Resources>

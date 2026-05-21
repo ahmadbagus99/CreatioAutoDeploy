@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nasabah form page" />
+			<Item Name="LocalizableStrings.ComboBox_upjpch6_label.Value" Value="Bahasa" />
+			<Item Name="LocalizableStrings.EmailInput_zamv82o_label.Value" Value="Email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_bklk3yk_title.Value" Value="PIC" />
+			<Item Name="LocalizableStrings.Input_aarcmv1_label.Value" Value="Nama" />
+			<Item Name="LocalizableStrings.Input_f6fm98k_label.Value" Value="Jabatan" />
+			<Item Name="LocalizableStrings.Input_vtpu1g6_label.Value" Value="NIK" />
+			<Item Name="LocalizableStrings.addRecord_0v3rjv3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9j5r4ak_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9p9iary_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_a3h7a9r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jpbxyx6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_nvpj43j_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yldfibg_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

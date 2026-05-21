@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "88ec9c05-1835-4cca-a3ba-4affb9f4676d",
+    "Name": "CoreNasabahRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772610166000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Nasabah (Page settings)",
+    "DependsOn": []
+  }
+}

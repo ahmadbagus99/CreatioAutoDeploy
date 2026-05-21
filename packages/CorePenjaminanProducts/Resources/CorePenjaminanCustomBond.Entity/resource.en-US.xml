@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Penjaminan Custom Bond" />
+			<Item Name="Columns.CoreBiayaAdministrasi.Caption" Value="Biaya Administrasi" />
+			<Item Name="Columns.CoreBiayaMaterai.Caption" Value="Biaya Materai" />
+			<Item Name="Columns.CoreCaraBayar.Caption" Value="Cara Bayar" />
+			<Item Name="Columns.CoreIsBAST.Caption" Value="Is BAST" />
+			<Item Name="Columns.CoreIsDeposit.Caption" Value="Is Deposit" />
+			<Item Name="Columns.CoreIsDepositManual.Caption" Value="Is Deposit Manual" />
+			<Item Name="Columns.CoreJangkaWaktu.Caption" Value="Jangka Waktu" />
+			<Item Name="Columns.CoreJenisBond.Caption" Value="Jenis Bond" />
+			<Item Name="Columns.CoreJenisPenjaminan.Caption" Value="Jenis Penjaminan" />
+			<Item Name="Columns.CoreJenisPersyaratan.Caption" Value="Jenis Persyaratan" />
+			<Item Name="Columns.CoreJenisSuratPerjanjian.Caption" Value="Jenis Surat Perjanjian" />
+			<Item Name="Columns.CoreNamaJenisDokumen.Caption" Value="Nama Jenis Dokumen" />
+			<Item Name="Columns.CoreNamaObligee.Caption" Value="Nama Obligee" />
+			<Item Name="Columns.CoreNamaPrincipal.Caption" Value="Nama Principal" />
+			<Item Name="Columns.CoreNamaProyek.Caption" Value="Nama Proyek" />
+			<Item Name="Columns.CoreNilaiIJP.Caption" Value="Nilai IJP" />
+			<Item Name="Columns.CoreNilaiPenjamin.Caption" Value="Nilai Penjamin" />
+			<Item Name="Columns.CoreNilaiProyek.Caption" Value="Nilai Proyek" />
+			<Item Name="Columns.CoreNoSuratBAST.Caption" Value="No Surat BAST" />
+			<Item Name="Columns.CoreNoSuratPerjanjian.Caption" Value=" No Surat Perjanjian" />
+			<Item Name="Columns.CoreNomorJenisDokumen.Caption" Value="Nomor Jenis Dokumen" />
+			<Item Name="Columns.CoreNomorPermohonan.Caption" Value="Nomor Permohonan" />
+			<Item Name="Columns.CorePeriodeAkhirBerlaku.Caption" Value="Periode Akhir Berlaku" />
+			<Item Name="Columns.CorePeriodeAwalBerlaku.Caption" Value="Periode Awal Berlaku" />
+			<Item Name="Columns.CorePersentase.Caption" Value="Persentase" />
+			<Item Name="Columns.CoreProduk.Caption" Value="Produk" />
+			<Item Name="Columns.CoreProvinsiProyek.Caption" Value="Provinsi Proyek" />
+			<Item Name="Columns.CoreSektor.Caption" Value="Sektor" />
+			<Item Name="Columns.CoreSkemaPenalty.Caption" Value="Skema Penalty" />
+			<Item Name="Columns.CoreTanggalSuratBAST.Caption" Value="Tanggal Surat BAST" />
+			<Item Name="Columns.CoreTanggalSuratJenisDokumen.Caption" Value="Tanggal Surat Jenis Dokumen" />
+			<Item Name="Columns.CoreTanggalSuratPerjanjian.Caption" Value="Tanggal Surat Perjanjian" />
+			<Item Name="Columns.CoreTanggalSuratPermohonan.Caption" Value="Tanggal Surat Permohonan" />
+			<Item Name="Columns.CoreTarif.Caption" Value="Tarif" />
+		</Items>
+	</Group>
+</Resources>

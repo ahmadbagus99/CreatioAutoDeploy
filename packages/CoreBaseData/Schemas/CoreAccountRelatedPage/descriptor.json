@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7309a244-7091-4eb8-8300-167f4d923cef",
+    "Name": "CoreAccountRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772620894000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Mitra (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b2be482-fc61-4e3c-a4bb-4e4f09f37e38",
+    "Name": "CoreVerifikasiAnalisa_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1774425983000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Verifikasi dan Analisa mobile form page",
+    "DependsOn": []
+  }
+}

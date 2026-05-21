@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanCustomBond/CorePenjaminanCustomBond.cs" Condition="Exists('$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanCustomBond/CorePenjaminanCustomBond.cs')" />
+		<Compile Include="$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanDebitur/CorePenjaminanDebitur.cs" Condition="Exists('$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanDebitur/CorePenjaminanDebitur.cs')" />
+		<Compile Include="$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanMultiguna/CorePenjaminanMultiguna.cs" Condition="Exists('$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanMultiguna/CorePenjaminanMultiguna.cs')" />
+		<Compile Include="$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanRiskSharing/CorePenjaminanRiskSharing.cs" Condition="Exists('$(PkgPath)/CorePenjaminanProducts/Schemas/CorePenjaminanRiskSharing/CorePenjaminanRiskSharing.cs')" />
+	</ItemGroup>
+</Project>

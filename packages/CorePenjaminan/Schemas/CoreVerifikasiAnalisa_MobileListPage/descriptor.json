@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "43754ca3-fc54-4f6c-9f36-e474e0be62c8",
+    "Name": "CoreVerifikasiAnalisa_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1774425983000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Verifikasi dan Analisa mobile list page",
+    "DependsOn": []
+  }
+}

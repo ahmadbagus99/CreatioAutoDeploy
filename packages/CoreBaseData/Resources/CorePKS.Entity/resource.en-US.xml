@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PKS" />
+			<Item Name="Columns.CoreActive.Caption" Value="Active" />
+			<Item Name="Columns.CoreCode.Caption" Value="Code" />
+			<Item Name="Columns.CoreCollectionFeePercentage.Caption" Value="Collection Fee Percentage" />
+			<Item Name="Columns.CoreDeskripsi.Caption" Value="Deskripsi" />
+			<Item Name="Columns.CoreFeeBasePercentage.Caption" Value="Fee Base Percentage" />
+			<Item Name="Columns.CoreIsRepeatTarif.Caption" Value="Is Repeat Tarif" />
+			<Item Name="Columns.CoreIsSpesialRate.Caption" Value="Is Spesial Rate" />
+			<Item Name="Columns.CoreJenisBond.Caption" Value="Jenis Bond" />
+			<Item Name="Columns.CoreJenisPrinsipUsaha.Caption" Value="Jenis Prinsip Usaha" />
+			<Item Name="Columns.CoreJenisProduk.Caption" Value="Jenis Produk" />
+			<Item Name="Columns.CoreMacetPercentage.Caption" Value="Macet Percentage" />
+			<Item Name="Columns.CoreMaksimalPlafond.Caption" Value="Maksimal Plafond" />
+			<Item Name="Columns.CoreManagementFeePercentage.Caption" Value="Management Fee Percentage" />
+			<Item Name="Columns.CoreMeninggalPercentage.Caption" Value="Meninggal Percentage" />
+			<Item Name="Columns.CoreMinimalPlafond.Caption" Value="Minimal Plafond" />
+			<Item Name="Columns.CoreMitra.Caption" Value="Mitra" />
+			<Item Name="Columns.CoreName.Caption" Value="Name" />
+			<Item Name="Columns.CoreNoClaimBonus.Caption" Value="No Claim Bonus" />
+			<Item Name="Columns.CoreNoPKSBank.Caption" Value="No PKS Bank" />
+			<Item Name="Columns.CorePAWPercentage.Caption" Value="PAW Percentage" />
+			<Item Name="Columns.CorePHKPercentage.Caption" Value="PHK Percentage" />
+			<Item Name="Columns.CorePensesianWajib.Caption" Value="Pensesian Wajib" />
+			<Item Name="Columns.CoreProduk.Caption" Value="Produk" />
+			<Item Name="Columns.CoreSatuanTenor.Caption" Value="Satuan Tenor" />
+			<Item Name="Columns.CoreTanggalBerakhir.Caption" Value="Tanggal Berakhir" />
+			<Item Name="Columns.CoreTanggalMulai.Caption" Value="Tanggal Mulai" />
+			<Item Name="Columns.CoreTemplate.Caption" Value="Template" />
+			<Item Name="Columns.CoreTextdiSertifikat.Caption" Value="Text di Sertifikat" />
+			<Item Name="Columns.CoreUsiaMaxSaatJatuhTempo.Caption" Value="Usia Max Saat Jatuh Tempo" />
+		</Items>
+	</Group>
+</Resources>

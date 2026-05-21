@@ -1,0 +1,220 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "6f8c02b3-eccf-4642-850c-5489d4badf78",
+      "A2": "CorePenjaminanRiskSharingBusinessRule",
+      "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "cdf8c184-4492-47a8-96ea-3c6686abea9d",
+      "B8": "8.3.2.4199",
+      "AD1": "31118176-35b6-4174-a763-12841e165bd9",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "5c671240-542e-f966-fc39-ac791d8bea77",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "35172918-d5cd-a0ee-29c1-b7afeb5d0d4e",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "0c020109-b9c2-d03b-7588-4fff183af748",
+                  "BGC1": 1,
+                  "BGC2": []
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionFilterLookup",
+                    "UId": "b50be702-97bb-fba4-bdda-09a082a35791",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "cd2a38ce-073c-4814-b7ea-742b61ce5430"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "194e9b6a-03a0-47c7-9950-75ddc4f133bf"
+                    },
+                    "BSFL1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "ec388983-ca2e-abe8-3f24-2492b15863fe",
+                      "BRE1": "Lookup",
+                      "BRE3": "CoreJenisRiskSharing",
+                      "BVP1": "CoreJenisRiskSharing",
+                      "BVF1": "CoreTipeRiskSharing"
+                    },
+                    "BSFR1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "4e4ae4cd-27ea-aa49-725b-6843678dfb4b",
+                      "BRE1": "Lookup",
+                      "BRE3": "CoreTipeRiskSharing",
+                      "BVP1": "CoreTipeRiskSharing",
+                      "BVF1": "null"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "592cf86a-8682-1095-4a42-a4a77bfc405f",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "dbe5a5a7-fc6b-1655-521f-73e5c8c351b8",
+                "BRT1": "CoreTipeRiskSharing"
+              }
+            ],
+            "BR3": "BusinessRule_28148ca"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "73bf7903-e5a2-5107-0204-9ae57cd29de8",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "cadd4c75-ffb2-1af4-cdf2-8dc451ff3742",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "702baf36-cfb5-58c1-168c-8e4f2ee2fc92",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "4695c5c5-6ca1-c35c-df5e-fa455dc568f1",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "CoreTipeRiskSharing"
+                  },
+                  "BCO2": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "504a87b9-7983-e060-7fc4-20f4c7e57f26",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "CoreJenisRiskSharing.CoreTipeRiskSharing"
+                  },
+                  "BCO3": 3
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "45e3c449-0d38-d20d-2ac7-fe6e83668725",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "db473e85-3bec-4f95-a1ce-46b7b16efaac"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "6810107d-0127-4cf3-80c1-0fb4a80d5bbd"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "7b6bf973-2b4d-442a-3ae6-32a424f5e6f9",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "d5eaf93d-e1d9-4ad5-492c-ede9dccc1df6",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRX1": "CoreJenisRiskSharing",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleEmptyValueExpression",
+                          "UId": "edb09086-46ad-bb86-27b7-0ab4044dc5ed",
+                          "BRE1": "Lookup",
+                          "BVE1": "00000000-0000-0000-0000-000000000000"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "5208283c-a576-3bc3-9039-53ca541d130c",
+                "BRT1": "CoreTipeRiskSharing"
+              }
+            ],
+            "BR3": "Autogenerated_5c671240-542e-f966-fc39-ac791d8bea77_ClearValue",
+            "BR5": "5c671240-542e-f966-fc39-ac791d8bea77",
+            "BR6": "b50be702-97bb-fba4-bdda-09a082a35791"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "d2c377a7-b058-d055-c391-013bd092be33",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "9c4da0c6-f4eb-f577-8372-12eea46d9c14",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "e400a4ef-2a51-c365-f575-ca460c0b2a2a",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "eaf9e715-f7cb-5ebe-196c-fe7db4e431db",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "CoreJenisRiskSharing"
+                  },
+                  "BCO3": 1
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "1e045bc8-b0ea-ea1d-22fa-052b891164a0",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "f1acb225-7372-4037-b5c7-5c4020dac58c"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "62f67dfd-c042-45f9-a57b-7145e227b00f"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "c84544e3-8197-ea06-453d-21212b838bec",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "a720472e-82ca-45eb-a1b1-b3e9ce041fc8",
+                          "BRE2": "AttributeValue",
+                          "BRX1": "CoreTipeRiskSharing",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "a05dc28c-bae4-c32f-0350-180e72111252",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRE3": "CoreTipeRiskSharing",
+                          "BRX1": "CoreJenisRiskSharing.CoreTipeRiskSharing"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "1ab9abb8-f711-aab4-aa32-9877b7bee66b",
+                "BRT1": "CoreJenisRiskSharing"
+              }
+            ],
+            "BR3": "Autogenerated_5c671240-542e-f966-fc39-ac791d8bea77_PopulateValue",
+            "BR5": "5c671240-542e-f966-fc39-ac791d8bea77",
+            "BR6": "b50be702-97bb-fba4-bdda-09a082a35791"
+          }
+        ]
+      }
+    }
+  }
+}

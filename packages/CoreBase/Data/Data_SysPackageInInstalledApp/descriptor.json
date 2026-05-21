@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "4531c58f-e0f6-f1db-77e1-84d4a6fee1d0",
+    "Name": "Data_SysPackageInInstalledApp",
+    "ModifiedOnUtc": "\/Date(1773124433000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "c5da825e-81b7-44cf-b07e-a7d73474b98c",
+      "Name": "SysPackageInInstalledApp"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "38ec5e8b-c6f7-48a9-975a-9383e6ef6c78",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysInstalledApp",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "7866bcb4-1e65-4a34-802f-ccc9ea70f0ab",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Current",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "79d800ef-9c09-6bf4-333d-b1b45e553582",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Primary",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "cbddea31-af71-4773-9e88-6b0bd60be3b4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysPackage",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

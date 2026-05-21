@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PKS form page" />
+			<Item Name="LocalizableStrings.Button_2esd5zr_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_9wxcn8k_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_wmps4mb_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.Checkbox_h1vsce0_label.Value" Value="Repeat Tarif?" />
+			<Item Name="LocalizableStrings.Checkbox_lenyeyj_label.Value" Value="Spesial Rate?" />
+			<Item Name="LocalizableStrings.ExpansionPanel_3ege86c_title.Value" Value="Penggunaan" />
+			<Item Name="LocalizableStrings.ExpansionPanel_63wbm91_title.Value" Value="Terjamin" />
+			<Item Name="LocalizableStrings.ExpansionPanel_b30gkne_title.Value" Value="Fee Base &amp; Collection Fee" />
+			<Item Name="LocalizableStrings.ExpansionPanel_e8w2jms_title.Value" Value="Tarif" />
+			<Item Name="LocalizableStrings.ExpansionPanel_l56hqqo_title.Value" Value="Rates" />
+			<Item Name="LocalizableStrings.ExpansionPanel_libpqsk_title.Value" Value="Coverage (%)" />
+			<Item Name="LocalizableStrings.ExpansionPanel_njia0ib_title.Value" Value="Plafond" />
+			<Item Name="LocalizableStrings.ExpansionPanel_w6yh9l8_title.Value" Value="Nilai Penjaminan" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ynk0spq_title.Value" Value="Lain-lain" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_wd40ssh_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_da4bsnh_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_nopvq6w_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_8rjcb10_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_nnwbyln_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_1h3zjx8_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_n4uey10_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_4il8p5u_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_efts1xb_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_5cqlm91_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_yvlg28c_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MenuItem_u7sqed6_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_uavylcv_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.NumberInput_1929pur_label.Value" Value="Meninggal (%)" />
+			<Item Name="LocalizableStrings.NumberInput_2xyvklj_label.Value" Value="PAW (%)" />
+			<Item Name="LocalizableStrings.NumberInput_7nfhdff_label.Value" Value="Fee Base (%)" />
+			<Item Name="LocalizableStrings.NumberInput_8e9i75l_label.Value" Value="Management Fee (%)" />
+			<Item Name="LocalizableStrings.NumberInput_8fsqj1f_label.Value" Value="Collection Fee (%)" />
+			<Item Name="LocalizableStrings.NumberInput_9ww8tx3_label.Value" Value="Macet (%)" />
+			<Item Name="LocalizableStrings.NumberInput_a3osaa1_label.Value" Value="PHK (%)" />
+			<Item Name="LocalizableStrings.NumberInput_s5kd73k_label.Value" Value="Minimal" />
+			<Item Name="LocalizableStrings.NumberInput_yqo2vlj_label.Value" Value="Maksimal" />
+			<Item Name="LocalizableStrings.SearchFilter_6zf41nb_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.addRecord_6fmq1bn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9nfttp4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_arkohg0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fisp6il_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fot5epy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ojawbui_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p7i5lu9_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ysjj3x4_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

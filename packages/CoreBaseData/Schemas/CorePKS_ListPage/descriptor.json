@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "09b02dc8-8d01-4682-9043-aac28d7ae240",
+    "Name": "CorePKS_ListPage",
+    "ModifiedOnUtc": "\/Date(1773036938000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PKS list page",
+    "DependsOn": []
+  }
+}

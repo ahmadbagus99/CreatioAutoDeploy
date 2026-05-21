@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a29babcc-0fa0-4d4c-a500-de14d5201038",
+    "Name": "CoreVerifikasiAnalisa_Detail",
+    "ModifiedOnUtc": "\/Date(1774425983000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Verifikasi dan Analisa detail",
+    "DependsOn": []
+  }
+}

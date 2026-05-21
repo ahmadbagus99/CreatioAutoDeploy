@@ -1,0 +1,56 @@
+﻿{
+  "Descriptor": {
+    "UId": "8a9f7e41-4eec-49dc-cdf6-4739fcc7593c",
+    "Name": "CoreKategoriNasabahData",
+    "ModifiedOnUtc": "\/Date(1774412317000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "e86ce124-b5cb-4c7c-aa32-ed542d658e05",
+      "Name": "CoreKategoriNasabah"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "127f777b-2e63-e393-f078-fdca90fe13c7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CoreColor",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
+      {
+        "ColumnUId": "5666faf2-5c60-cd19-6a43-08bd2f8ff3a7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CoreCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "76f29006-8097-c622-c614-965cc6a0696e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CorePosition",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

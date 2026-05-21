@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cfa1b330-8d5f-4b58-8967-96082c028557",
+    "Name": "CoreCaraBayar",
+    "ModifiedOnUtc": "\/Date(1772608292000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cara Bayar",
+    "DependsOn": []
+  }
+}

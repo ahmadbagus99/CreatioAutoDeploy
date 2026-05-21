@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ef89dde-a73e-4b88-bed0-39dcd3cbfc55",
+    "Name": "CorePage_FormPenjaminanMultiguna",
+    "ModifiedOnUtc": "\/Date(1779095572000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Form Penjaminan Multiguna",
+    "DependsOn": []
+  }
+}

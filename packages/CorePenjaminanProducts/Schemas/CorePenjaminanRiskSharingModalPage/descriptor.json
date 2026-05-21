@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "88a5cafa-d3d4-4fc9-b742-cd55acdabc81",
+    "Name": "CorePenjaminanRiskSharingModalPage",
+    "ModifiedOnUtc": "\/Date(1774414516000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Penjaminan Risk Sharing modal page",
+    "DependsOn": []
+  }
+}

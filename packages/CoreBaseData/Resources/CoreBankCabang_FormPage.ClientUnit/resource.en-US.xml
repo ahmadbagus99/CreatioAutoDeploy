@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Bank Cabang form page" />
+			<Item Name="LocalizableStrings.EmailInput_bcibh65_label.Value" Value="Email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_qzkylp7_title.Value" Value="PIC Info" />
+			<Item Name="LocalizableStrings.Input_swjh5as_label.Value" Value="Nama" />
+			<Item Name="LocalizableStrings.PhoneInput_bgii8cj_label.Value" Value="Telepon" />
+			<Item Name="LocalizableStrings.addRecord_87uy17o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_gcvtd9j_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_knlkrnb_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_krma0qe_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

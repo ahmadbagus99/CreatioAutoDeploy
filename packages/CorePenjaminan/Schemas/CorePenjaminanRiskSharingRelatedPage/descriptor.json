@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ad414a92-07c8-4669-be28-f1a1443e85f0",
+    "Name": "CorePenjaminanRiskSharingRelatedPage",
+    "ModifiedOnUtc": "\/Date(1774407159000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Penjaminan Risk Sharing (Page settings)",
+    "DependsOn": []
+  }
+}

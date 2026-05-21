@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nasabah" />
+			<Item Name="Columns.CoreAlamat.Caption" Value="Alamat" />
+			<Item Name="Columns.CoreJenisKelamin.Caption" Value="Jenis Kelamin" />
+			<Item Name="Columns.CoreJenisNasabah.Caption" Value="Jenis Nasabah" />
+			<Item Name="Columns.CoreKategoriNasabah.Caption" Value="Kategori Nasabah" />
+			<Item Name="Columns.CoreNIK.Caption" Value="NIK" />
+			<Item Name="Columns.CoreNama.Caption" Value="Nama" />
+			<Item Name="Columns.CorePICBahasa.Caption" Value="PIC Bahasa" />
+			<Item Name="Columns.CorePICEmail.Caption" Value="PIC Email" />
+			<Item Name="Columns.CorePICJabatan.Caption" Value="PIC Jabatan" />
+			<Item Name="Columns.CorePICNIK.Caption" Value="PIC NIK" />
+			<Item Name="Columns.CorePICNama.Caption" Value="PIC Nama" />
+			<Item Name="Columns.CorePICPekerjaan.Caption" Value="PIC Pekerjaan" />
+			<Item Name="Columns.CoreTanggalLahir.Caption" Value="Tanggal Lahir" />
+			<Item Name="Columns.CoreTotalAktivaLancar.Caption" Value="Total Aktiva Lancar" />
+			<Item Name="Columns.CoreTotalHutang.Caption" Value="Total Hutang" />
+			<Item Name="Columns.CoreTotalHutangLancar.Caption" Value="Total Hutang Lancar" />
+			<Item Name="Columns.CoreTotalLaba.Caption" Value="Total Laba" />
+			<Item Name="Columns.CoreTotalModal.Caption" Value="Total Modal" />
+			<Item Name="Columns.CoreTotalNilaiProyekSebelumnya.Caption" Value="Total Nilai Proyek Sebelumnya" />
+			<Item Name="Columns.CoreTypeNasabah.Caption" Value="Type Nasabah" />
+		</Items>
+	</Group>
+</Resources>

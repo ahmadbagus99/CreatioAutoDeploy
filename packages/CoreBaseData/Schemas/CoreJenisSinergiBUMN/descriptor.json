@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "94f18740-b921-41ca-97b5-073dd385fe15",
+    "Name": "CoreJenisSinergiBUMN",
+    "ModifiedOnUtc": "\/Date(1779333658000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Jenis Sinergi BUMN",
+    "DependsOn": []
+  }
+}

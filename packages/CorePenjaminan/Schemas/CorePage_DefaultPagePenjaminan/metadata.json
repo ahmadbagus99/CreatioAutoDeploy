@@ -1,0 +1,51 @@
+= MetaData.Schema.UId "6d1e709d-d94a-4f57-abe0-7f6134d03fed"
+= MetaData.Schema.A2 "CorePage_DefaultPagePenjaminan"
+= MetaData.Schema.A5 "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
++ MetaData.Schema.B2 {
+  "UId": "d15bab1d-3f3e-6eef-13ae-72a70e58a535",
+  "A2": "Label_ynmqlk7_caption",
+  "A3": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A4": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
+}
++ MetaData.Schema.B2 {
+  "UId": "616d74d4-dd66-d2e2-19ca-de2060f85a95",
+  "A2": "Timer_6xj702i_negativeTextValue",
+  "A3": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A4": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
+}
++ MetaData.Schema.B2 {
+  "UId": "79e8b569-7501-0340-7817-9bb25a9cbafc",
+  "A2": "Timer_6xj702i_positiveTextValue",
+  "A3": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A4": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
+}
++ MetaData.Schema.B2 {
+  "UId": "84e1280a-5d1e-2d03-1f04-39161856b9ba",
+  "A2": "Timer_6xj702i_label",
+  "A3": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A4": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
+}
++ MetaData.Schema.B2 {
+  "UId": "ad46efd7-84eb-c7ea-7606-ce30def21459",
+  "A2": "Timer_6xj702i_caption",
+  "A3": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A4": "6d1e709d-d94a-4f57-abe0-7f6134d03fed",
+  "A5": "7b94d85e-5d0f-4176-a2ae-0eb189ee99c8"
+}
+~ MetaData.Schema.B2 [
+  "d15bab1d-3f3e-6eef-13ae-72a70e58a535",
+  "616d74d4-dd66-d2e2-19ca-de2060f85a95",
+  "79e8b569-7501-0340-7817-9bb25a9cbafc",
+  "84e1280a-5d1e-2d03-1f04-39161856b9ba",
+  "ad46efd7-84eb-c7ea-7606-ce30def21459"
+]
+= MetaData.Schema.B6 "cdf8c184-4492-47a8-96ea-3c6686abea9d"
+= MetaData.Schema.B8 "8.3.2.4199"
+= MetaData.Schema.HD1 "f691e828-0b36-42a7-898f-c337e9af67d0"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
++ MetaData.Schema.B7 false

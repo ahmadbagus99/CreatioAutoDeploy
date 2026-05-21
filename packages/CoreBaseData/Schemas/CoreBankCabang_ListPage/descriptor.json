@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf6f5549-1a37-4d4c-bfa7-4e33a2a48875",
+    "Name": "CoreBankCabang_ListPage",
+    "ModifiedOnUtc": "\/Date(1773036993000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Bank Cabang list page",
+    "DependsOn": []
+  }
+}

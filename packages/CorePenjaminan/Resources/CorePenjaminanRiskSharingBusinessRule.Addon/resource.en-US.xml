@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5c671240-542e-f966-fc39-ac791d8bea77.Caption" Value="Apply filter: Jenis Risk Sharing" />
+			<Item Name="AddonConfig.Rules.73bf7903-e5a2-5107-0204-9ae57cd29de8.Caption" Value="ChildRule-5c671240-542e-f966-fc39-ac791d8bea77-ClearValue" />
+			<Item Name="AddonConfig.Rules.d2c377a7-b058-d055-c391-013bd092be33.Caption" Value="ChildRule-5c671240-542e-f966-fc39-ac791d8bea77-PopulateValue" />
+			<Item Name="Caption" Value="Penjaminan Risk Sharing (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

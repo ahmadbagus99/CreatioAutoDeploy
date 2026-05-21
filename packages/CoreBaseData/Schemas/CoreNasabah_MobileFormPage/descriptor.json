@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "45a69082-427f-427e-a323-5530d4f05514",
+    "Name": "CoreNasabah_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1772610166000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Nasabah mobile form page",
+    "DependsOn": []
+  }
+}

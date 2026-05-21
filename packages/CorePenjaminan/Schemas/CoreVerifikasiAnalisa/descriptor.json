@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "385a4b64-6d02-482e-8b1f-b2efc3a7416b",
+    "Name": "CoreVerifikasiAnalisa",
+    "ModifiedOnUtc": "\/Date(1779382439000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Verifikasi Analisa"
+  }
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Form Penjaminan Custom Bond" />
+			<Item Name="LocalizableStrings.ExpansionPanel_DataAdministrasiProyek_title.Value" Value="Data Administrasi Proyek" />
+			<Item Name="LocalizableStrings.ExpansionPanel_DataBond_title.Value" Value="Data Bond" />
+			<Item Name="LocalizableStrings.ExpansionPanel_DataProyek_title.Value" Value="Data Proyek" />
+			<Item Name="LocalizableStrings.ExpansionPanel_Obligee_title.Value" Value="Obligee" />
+			<Item Name="LocalizableStrings.ExpansionPanel_Pembayaran_title.Value" Value="Pembayaran" />
+			<Item Name="LocalizableStrings.ExpansionPanel_PenjaminanRiskSharing_title.Value" Value="Penjaminan Risk Sharing" />
+			<Item Name="LocalizableStrings.ExpansionPanel_Principal_title.Value" Value="Principal" />
+			<Item Name="LocalizableStrings.ExpansionPanel_TarifdanBiaya_title.Value" Value="Tarif &amp; Biaya" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_91zzxv8_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_tjc2rbx_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_s4aoedw_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qyueday_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_0lr70i9_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_ze2x5jb_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.addRecord_5cbszmf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_63rv1go_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_6egl3jn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_70ra4m6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_eh3cgx5_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_etkbszf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fc6374r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_i0x0zgc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t3m7amh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_uado4mo_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "88ec9c05-1835-4cca-a3ba-4affb9f4676d",
+      "A2": "CoreNasabahRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "2c97fc17-550e-40d0-ae82-806c59e25f9f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "1c8366cb-56b8-4ab6-9d73-ada3001ee0a6",
+            "PageSchemaUId": "1b9c44e2-b550-4913-835b-eab53945d49c",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

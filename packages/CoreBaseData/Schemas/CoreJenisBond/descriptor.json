@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "03415a86-6c49-45ab-a0af-e0c96c785d9b",
+    "Name": "CoreJenisBond",
+    "ModifiedOnUtc": "\/Date(1773037013000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Jenis Bond",
+    "DependsOn": []
+  }
+}

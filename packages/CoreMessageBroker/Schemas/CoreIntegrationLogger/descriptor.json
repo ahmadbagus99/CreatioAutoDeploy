@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b0282068-f6a7-432d-bd9e-eb4232999910",
+    "Name": "CoreIntegrationLogger",
+    "ModifiedOnUtc": "\/Date(1779194442000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Integration Logger",
+    "DependsOn": []
+  }
+}

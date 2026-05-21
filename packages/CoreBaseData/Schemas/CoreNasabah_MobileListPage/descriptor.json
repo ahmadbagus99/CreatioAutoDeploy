@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb48baae-f260-4f0a-ab82-490dfd2f9d14",
+    "Name": "CoreNasabah_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1772610166000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Nasabah mobile list page",
+    "DependsOn": []
+  }
+}

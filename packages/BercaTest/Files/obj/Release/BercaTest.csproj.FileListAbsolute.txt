@@ -1,0 +1,10 @@
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/Bin/netstandard/BercaTest.deps.json
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/Bin/netstandard/BercaTest.dll
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/Bin/netstandard/BercaTest.pdb
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.csproj.AssemblyReference.cache
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.GeneratedMSBuildEditorConfig.editorconfig
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.AssemblyInfoInputs.cache
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.AssemblyInfo.cs
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.csproj.CoreCompileInputs.cache
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.dll
+/app/Terrasoft.Configuration/Pkg/BercaTest/Files/obj/Release/BercaTest.pdb

@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "faa603b6-0801-4cf4-905b-ddb7f401398e",
+    "Name": "CoreSubrogasi",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1772604066000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/CoreSubrogasi.csproj",
+    "DependsOn": [
+      {
+        "UId": "cdf8c184-4492-47a8-96ea-3c6686abea9d",
+        "Name": "CorePenjaminan",
+        "Type": 1
+      }
+    ]
+  }
+}

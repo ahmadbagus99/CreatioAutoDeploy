@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Penjaminan Risk Sharing" />
+			<Item Name="Columns.CoreAmount.Caption" Value="Amount" />
+			<Item Name="Columns.CoreJenisRiskSharing.Caption" Value="Jenis Risk Sharing" />
+			<Item Name="Columns.CoreManagementFee.Caption" Value="Management Fee" />
+			<Item Name="Columns.CoreName.Caption" Value="Name" />
+			<Item Name="Columns.CorePenjaminanCustomBond.Caption" Value="Penjaminan Custom Bond" />
+			<Item Name="Columns.CorePenjaminanMultiguna.Caption" Value="Penjaminan Multiguna" />
+			<Item Name="Columns.CorePercentage.Caption" Value="Percentage" />
+			<Item Name="Columns.CoreTipeRiskSharing.Caption" Value="Tipe Risk Sharing" />
+		</Items>
+	</Group>
+</Resources>

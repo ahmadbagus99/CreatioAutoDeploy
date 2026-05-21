@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e6fd7564-5898-42bd-8e45-7c23a75379bc",
+    "Name": "CoreVerifikasiAnalisa_ListPage",
+    "ModifiedOnUtc": "\/Date(1779382440000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Verifikasi dan Analisa list page"
+  }
+}

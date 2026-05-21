@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b08851e-be23-4fbf-8e4e-02554b9f4c24",
+    "Name": "CoreTypeNasabah",
+    "ModifiedOnUtc": "\/Date(1772608882000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Type Nasabah",
+    "DependsOn": []
+  }
+}

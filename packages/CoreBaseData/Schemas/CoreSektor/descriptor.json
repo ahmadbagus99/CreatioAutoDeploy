@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9c6bd407-3081-4f16-9562-a2b57ad2ff2c",
+    "Name": "CoreSektor",
+    "ModifiedOnUtc": "\/Date(1772701086000)\/",
+    "Parent": {
+      "UId": "f33c8f42-4e2e-438d-949c-4160b376743d",
+      "Name": "CoreLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sektor"
+  }
+}

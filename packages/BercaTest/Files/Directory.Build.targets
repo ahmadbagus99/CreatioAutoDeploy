@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/BercaTest/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/BercaTest/Data/**" />
+		<Compile Remove="$(PkgPath)/BercaTest/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/BercaTest/Schemas\**" />
+		<Compile Remove="$(PkgPath)/BercaTest/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BercaTest/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BercaTest/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BercaTest/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BercaTest/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BercaTest/Resources/**" />
+		<None Remove="$(PkgPath)/BercaTest/Assemblies/**" />
+		<None Remove="$(PkgPath)/BercaTest/Data/**" />
+		<None Remove="$(PkgPath)/BercaTest/SqlScripts/**" />
+		<None Remove="$(PkgPath)/BercaTest/Schemas/**" />
+		<None Remove="$(PkgPath)/BercaTest/Resources/**" />
+  </ItemGroup>
+</Project>

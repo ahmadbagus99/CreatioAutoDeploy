@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9db12586-2c5a-4f19-9f3f-1f6bba62ff19",
+    "Name": "CoreProductMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772613221000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Product (Mobile page settings)",
+    "DependsOn": []
+  }
+}
