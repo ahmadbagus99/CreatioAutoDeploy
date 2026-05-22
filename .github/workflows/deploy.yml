@@ -29,6 +29,16 @@ jobs:
 
           BPMCSRF=$(grep "BPMCSRF" /tmp/creatio_cookie.txt | awk '{print $7}')
 
+          echo "==> Update packages from file system..."
+          curl -s \
+            -b /tmp/creatio_cookie.txt \
+            -H "Content-Type: application/json" \
+            -H "BPMCSRF: $BPMCSRF" \
+            -X POST \
+            "http://localhost:8080/ServiceModel/WorkspaceExplorerService.svc/LoadPackagesToDB" \
+            -d '{}'
+
+          echo "==> Compile all..."
           curl -s \
             -b /tmp/creatio_cookie.txt \
             -H "Content-Type: application/json" \
