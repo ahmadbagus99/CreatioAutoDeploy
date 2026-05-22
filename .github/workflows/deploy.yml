@@ -35,7 +35,7 @@ jobs:
             -H "Content-Type: application/json" \
             -H "BPMCSRF: $BPMCSRF" \
             -X POST \
-            "http://localhost:8080/ServiceModel/WorkspaceExplorerService.svc/LoadPackagesToDB" \
+            "http://localhost:8080/ServiceModel/AppInstallerService.svc/LoadPackagesToDB" \
             -d '{}'
 
           echo "==> Compile all..."
