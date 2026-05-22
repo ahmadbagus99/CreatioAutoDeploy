@@ -72,10 +72,6 @@ services:
     volumes:
       - ./creatio-app:/app
       - creatio-logs:/app/Logs
-      - ./packages/LibraryCreatio/CommonHelper:/app/Terrasoft.Configuration/Pkg/CommonHelper
-      - ./packages/LibraryCreatio/Doc2Pdf:/app/Terrasoft.Configuration/Pkg/Doc2Pdf
-      - ./packages/LibraryCreatio/GlbOpenPopupWindowUserTask:/app/Terrasoft.Configuration/Pkg/GlbOpenPopupWindowUserTask
-      - ./packages/LibraryCreatio/UIHelper:/app/Terrasoft.Configuration/Pkg/UIHelper
       # Custom packages — tambah baris baru per package via: ./scripts/add-package.sh <PackageName>
     networks:
       - creatio-net
